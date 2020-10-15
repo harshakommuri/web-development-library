@@ -1,0 +1,105 @@
+#part1 {
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+  font-family: "Montserrat-Bold";
+  line-height: 1.5;
+  padding-bottom: 30px
+}
+.left{
+  margin-right: 50px;
+  width: 300px;
+  height: 360px;
+  margin-bottom: 100px;
+
+
+}
+  h1 {
+    font-size: 3rem;
+  }
+
+  /* navbar */
+  .container-fluid {
+    padding: 3% 15% 7%;
+  }
+
+  body {
+    font-family: "Montserrat"
+  }
+
+  .navbar {
+    padding-bottom: 4rem;
+
+  }
+
+  .navbar-brand {
+    font-family: "Ubuntu"
+      font-size: 2.5rem;
+    font-weight: bold;
+    padding-right: 16px;
+
+  }
+
+  .nav-item {
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: "Montserrat-Light"
+    font-size: 2.5rem;
+      padding-bottom: 100px;
+  }
+
+
+  .owner {
+    text-align: right;
+    padding-right: 10px;
+  }
+.btn1{
+
+  margin: 10px;
+}
+/* section-2 */
+#part2 {
+  background-color: #fff;
+  padding: 7% 10%;
+  position: relative;
+}
+h6{
+  text-align: center;
+  color: red;
+}
+
+/* images section for specing  */
+
+.imgA{
+  padding: 4%;
+}
+.imgB{
+  padding: 4%;
+}
+.imgC{
+  padding: 4%;
+}
+.imgD{
+  padding: 4%;
+}
+.imgE{
+  padding: 4%;
+}
+.imgE3i{
+  width: 70%;
+  height: 80%;
+}
+.imgE2i{
+  width: 70%;
+  padding-bottom: 30px;
+}
+.imgE1i{
+  padding-top: 16px;
+}
+.imgA2i{
+  width: 70%;
+}
+.imgD2i{
+  width: 65%;
+  padding-top: 7%;
+}
